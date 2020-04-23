@@ -2,8 +2,8 @@
 title: "Learning to rebase"
 author: "Xue Wang"
 date: "4/23/2020"
-output: html_document
 output:
     bookdown::html_document2
 keep_md: true
 ---
+
